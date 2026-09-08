@@ -1,0 +1,185 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+
+@theme {
+    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+        'Segoe UI Symbol', 'Noto Color Emoji';
+}
+
+.region {
+    stroke: #000;
+    stroke-width: 0.7;
+    vector-effect: non-scaling-stroke;
+}
+
+/* Dark fills need a light border, or neighbours in the same band merge into one blob. */
+.region-4,
+.region-5 {
+    stroke: #fff;
+}
+
+/* Six-step grey ramp: 0 = no reported cases, 5 = worst province. */
+:root {
+    --shade-0: #fff;
+    --shade-1: #e0e0e0;
+    --shade-2: #b0b0b0;
+    --shade-3: #808080;
+    --shade-4: #454545;
+    --shade-5: #000;
+}
+
+.region-0 { fill: var(--shade-0); }
+.region-1 { fill: var(--shade-1); }
+.region-2 { fill: var(--shade-2); }
+.region-3 { fill: var(--shade-3); }
+.region-4 { fill: var(--shade-4); }
+.region-5 { fill: var(--shade-5); }
+
+.swatch-0 { background: var(--shade-0); }
+.swatch-1 { background: var(--shade-1); }
+.swatch-2 { background: var(--shade-2); }
+.swatch-3 { background: var(--shade-3); }
+.swatch-4 { background: var(--shade-4); }
+.swatch-5 { background: var(--shade-5); }
+
+.region-link {
+    cursor: pointer;
+}
+
+.region-link:hover {
+    stroke-width: 2;
+}
+
+/* Collapsible leaderboard: native <details>, no JavaScript. */
+summary {
+    list-style: none;
+}
+
+summary::-webkit-details-marker {
+    display: none;
+}
+
+.chevron {
+    transition: transform 150ms ease;
+}
+
+details[open] .chevron {
+    transform: rotate(90deg);
+}
+
+/* Timeframe switcher: pre-rendered panes toggled by radio state, so no reload and no JS. */
+.tf-radio {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.tf-pane {
+    display: none;
+}
+
+#tf-mtd:checked ~ .tf-panes .tf-pane-mtd,
+#tf-qtd:checked ~ .tf-panes .tf-pane-qtd,
+#tf-ytd:checked ~ .tf-panes .tf-pane-ytd,
+#tf-1y:checked ~ .tf-panes .tf-pane-1y,
+#tf-3y:checked ~ .tf-panes .tf-pane-3y,
+#tf-all:checked ~ .tf-panes .tf-pane-all {
+    display: block;
+}
+
+#tf-mtd:checked ~ .tf-nav .tf-label-mtd,
+#tf-qtd:checked ~ .tf-nav .tf-label-qtd,
+#tf-ytd:checked ~ .tf-nav .tf-label-ytd,
+#tf-1y:checked ~ .tf-nav .tf-label-1y,
+#tf-3y:checked ~ .tf-nav .tf-label-3y,
+#tf-all:checked ~ .tf-nav .tf-label-all {
+    background: #000;
+    color: #fff;
+}
+
+#tf-mtd:focus-visible ~ .tf-nav .tf-label-mtd,
+#tf-qtd:focus-visible ~ .tf-nav .tf-label-qtd,
+#tf-ytd:focus-visible ~ .tf-nav .tf-label-ytd,
+#tf-1y:focus-visible ~ .tf-nav .tf-label-1y,
+#tf-3y:focus-visible ~ .tf-nav .tf-label-3y,
+#tf-all:focus-visible ~ .tf-nav .tf-label-all {
+    outline: 2px solid #000;
+    outline-offset: 2px;
+}
+
+/* Report type switcher: the radio that carries the submitted value also drives
+   which count fields are shown, so the form needs no JavaScript. */
+.rt-radio {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.rt-pane {
+    display: none;
+}
+
+#rt-poisoning:checked ~ * .rt-pane-poisoning,
+#rt-sppg:checked ~ * .rt-pane-sppg,
+#rt-corruption:checked ~ * .rt-pane-corruption {
+    display: block;
+}
+
+#rt-poisoning:checked ~ * .rt-label-poisoning,
+#rt-sppg:checked ~ * .rt-label-sppg,
+#rt-corruption:checked ~ * .rt-label-corruption {
+    border-color: #000;
+    background: #000;
+    color: #fff;
+}
+
+#rt-poisoning:focus-visible ~ * .rt-label-poisoning,
+#rt-sppg:focus-visible ~ * .rt-label-sppg,
+#rt-corruption:focus-visible ~ * .rt-label-corruption {
+    outline: 2px solid #000;
+    outline-offset: 2px;
+}
+
+/* Following a >>12 link: land the post clear of the top of the window, and flash
+   it so the one being pointed at is obvious. */
+html {
+    scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
+}
+
+.post {
+    scroll-margin-top: 1.5rem;
+}
+
+/* The mark is a flash, not a state: it says which post was jumped to and then
+   gets out of the way. */
+@keyframes post-flash {
+    from {
+        border-color: #000;
+        background: #fff;
+        box-shadow: inset 0 0 0 2px #000;
+    }
+}
+
+.post.flash,
+html:not(.js) .post:target {
+    animation: post-flash 1.6s ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .post.flash,
+    html:not(.js) .post:target {
+        animation-duration: 0.01ms;
+    }
+}

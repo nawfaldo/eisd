@@ -1,0 +1,38 @@
+[
+ {
+  "indicator": "stunting",
+  "label": "Under-5 stunting prevalence",
+  "period": "2019",
+  "value": 27.67,
+  "unit": "%",
+  "source": "Kemenkes SSGBI 2019",
+  "source_url": null
+ },
+ {
+  "indicator": "stunting",
+  "label": "Under-5 stunting prevalence",
+  "period": "2021",
+  "value": 24.4,
+  "unit": "%",
+  "source": "Kemenkes SSGI 2021",
+  "source_url": null
+ },
+ {
+  "indicator": "stunting",
+  "label": "Under-5 stunting prevalence",
+  "period": "2022",
+  "value": 21.6,
+  "unit": "%",
+  "source": "Kemenkes SSGI 2022",
+  "source_url": null
+ },
+ {
+  "indicator": "stunting",
+  "label": "Under-5 stunting prevalence",
+  "period": "2023",
+  "value": 21.5,
+  "unit": "%",
+  "source": "Kemenkes SKI 2023",
+  "source_url": null
+ }
+]

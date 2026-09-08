@@ -1,0 +1,122 @@
+[
+ {
+  "title": "Kejagung names seven suspects over MBG governance at BGN in 2025–2026 — partner foundations steered to people affiliated with BGN officials, which prosecutors say received incentives worth billions of rupiah a day",
+  "province": null,
+  "region_id": null,
+  "regency": null,
+  "amount": null,
+  "agency": "Kejaksaan Agung",
+  "status": "suspects named",
+  "reported_on": "2026-06-03",
+  "reported_raw": "3 Juni 2026",
+  "source_url": "https://www.cnnindonesia.com/nasional/20260604061723-12-1365128/fakta-fakta-kasus-korupsi-mbg-eks-kepala-bgn-dadan-cs"
+ },
+ {
+  "title": "BPKP audit of MBG governance finds Rp 10.5 trillion a year of waste over 2025–2026 — the only published figure in the case; prosecutors are still calculating the state loss",
+  "province": null,
+  "region_id": null,
+  "regency": null,
+  "amount": 10500000000000,
+  "agency": "BPKP / Kejaksaan Agung",
+  "status": "audit finding",
+  "reported_on": "2026-07-28",
+  "reported_raw": "28 Juli 2026",
+  "source_url": "https://nasional.kompas.com/read/2026/07/28/11364811/kejagung-ungkap-program-mbg-boros-rp-105-triliun-per-tahun"
+ },
+ {
+  "title": "Electric motorcycle procurement — 21,801 units on a contract of about Rp 1 trillion, alleged to have been marked up",
+  "province": null,
+  "region_id": null,
+  "regency": null,
+  "amount": null,
+  "agency": "Kejaksaan Agung",
+  "status": "under investigation",
+  "reported_on": "2026-07-02",
+  "reported_raw": "2 Juli 2026",
+  "source_url": "https://informasi.com/nasional/infrms-27445/korupsi-mbg-dari-jual-titik-dapur-sppg-korupsi-kaos-kaki-motor-hingga-skandal-ompreng"
+ },
+ {
+  "title": "Equipment procurement alleged to be marked up and off-specification — 32,000 pairs of shoes, about 31,000 tablets and 5,400 75-inch televisions",
+  "province": null,
+  "region_id": null,
+  "regency": null,
+  "amount": null,
+  "agency": "Kejaksaan Agung",
+  "status": "under investigation",
+  "reported_on": "2026-07-02",
+  "reported_raw": "2 Juli 2026",
+  "source_url": "https://informasi.com/nasional/infrms-27445/korupsi-mbg-dari-jual-titik-dapur-sppg-korupsi-kaos-kaki-motor-hingga-skandal-ompreng"
+ },
+ {
+  "title": "Ompreng scandal — supply and pricing of the food trays used across SPPG kitchens, a contract prosecutors describe as worth trillions of rupiah",
+  "province": null,
+  "region_id": null,
+  "regency": null,
+  "amount": null,
+  "agency": "Kejaksaan Agung",
+  "status": "under investigation",
+  "reported_on": "2026-07-02",
+  "reported_raw": "2 Juli 2026",
+  "source_url": "https://informasi.com/nasional/infrms-27445/korupsi-mbg-dari-jual-titik-dapur-sppg-korupsi-kaos-kaki-motor-hingga-skandal-ompreng"
+ },
+ {
+  "title": "Selling SPPG kitchen slots to would-be partners at roughly Rp 100 million a location, running since 2025",
+  "province": null,
+  "region_id": null,
+  "regency": null,
+  "amount": null,
+  "agency": "Kejaksaan Agung",
+  "status": "suspects named",
+  "reported_on": "2026-07-02",
+  "reported_raw": "2 Juli 2026",
+  "source_url": "https://informasi.com/nasional/infrms-27445/korupsi-mbg-dari-jual-titik-dapur-sppg-korupsi-kaos-kaki-motor-hingga-skandal-ompreng"
+ },
+ {
+  "title": "Prosecutors ordered offices nationwide to investigate SPPG kitchens in the regions flagged for MBG corruption",
+  "province": null,
+  "region_id": null,
+  "regency": null,
+  "amount": null,
+  "agency": "Kejaksaan Agung",
+  "status": "under investigation",
+  "reported_on": null,
+  "reported_raw": "2026",
+  "source_url": "https://belitung.tribunnews.com/news/214919/jajaran-kejaksaan-diperintah-usut-sppg-di-daerah-terindikasi-korupsi-mbg"
+ },
+ {
+  "title": "Polda Jabar breaks up a fake-SPPG syndicate that took Rp 1.9 billion from dozens of people for kitchen slots that did not exist; four arrested, the scheme run out of Kota Banjar",
+  "province": "Jawa Barat",
+  "region_id": "indonesia-jawa-barat",
+  "regency": "Kota Banjar",
+  "amount": 1900000000,
+  "agency": "Polda Jawa Barat",
+  "status": "suspects arrested",
+  "reported_on": "2026-05-19",
+  "reported_raw": "19 Mei 2026",
+  "source_url": "https://jabarpublisher.com/2026/05/19/manfaatkan-program-makan-bergizi-gratis-sindikat-penipuan-sppg-fiktif-rp19-miliar-digulung-polda-jabar/"
+ },
+ {
+  "title": "A resident paid Rp 400 million for two SPPG kitchen slots in Bengkong and Lubuk Baja that were never delivered, after being approached in March 2026 by someone claiming to run a partner foundation",
+  "province": "Kepulauan Riau",
+  "region_id": "indonesia-kepulauan-riau",
+  "regency": "Kota Batam",
+  "amount": 400000000,
+  "agency": "Polresta Barelang",
+  "status": "police investigation",
+  "reported_on": null,
+  "reported_raw": "Mei 2026",
+  "source_url": "https://www.tempo.co/hukum/polisi-usut-penipuan-jual-beli-titik-sppg-di-batam-2137904"
+ },
+ {
+  "title": "Villagers in Masbagik Selatan paid Rp 950 million to have an SPPG kitchen built and operated; nothing was built and the money was not returned. BGN says it appoints no brokers of any kind.",
+  "province": "Nusa Tenggara Barat",
+  "region_id": "indonesia-nusa-tenggara-barat",
+  "regency": "Kabupaten Lombok Timur",
+  "amount": 950000000,
+  "agency": "Polres Lombok Timur",
+  "status": "suspect named",
+  "reported_on": "2026-05-29",
+  "reported_raw": "29 Mei 2026",
+  "source_url": "https://investortrust.id/national/104826/bgn-ungkap-kasus-dugaan-penipuan-pembangunan-sppg-mbg-korban-rugi-rp-950-juta"
+ }
+]

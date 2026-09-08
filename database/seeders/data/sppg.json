@@ -1,0 +1,268 @@
+[
+ {
+  "province": "Aceh",
+  "region_id": "indonesia-aceh",
+  "outlets": 737,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sumatera Utara",
+  "region_id": "indonesia-sumatera-utara",
+  "outlets": 1592,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sumatera Barat",
+  "region_id": "indonesia-sumatera-barat",
+  "outlets": 446,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Riau",
+  "region_id": "indonesia-riau",
+  "outlets": 775,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Kepulauan Riau",
+  "region_id": "indonesia-kepulauan-riau",
+  "outlets": 263,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Jambi",
+  "region_id": "indonesia-jambi",
+  "outlets": 234,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sumatera Selatan",
+  "region_id": "indonesia-sumatera-selatan",
+  "outlets": 850,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Kepulauan Bangka Belitung",
+  "region_id": "indonesia-bangka-belitung",
+  "outlets": 106,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Bengkulu",
+  "region_id": "indonesia-bengkulu",
+  "outlets": 175,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Lampung",
+  "region_id": "indonesia-lampung",
+  "outlets": 1209,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Banten",
+  "region_id": "indonesia-banten",
+  "outlets": 1403,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Daerah Khusus Ibukota Jakarta",
+  "region_id": "indonesia-jakarta-raya",
+  "outlets": 667,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Jawa Barat",
+  "region_id": "indonesia-jawa-barat",
+  "outlets": 6721,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Jawa Tengah",
+  "region_id": "indonesia-jawa-tengah",
+  "outlets": 4590,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Daerah Istimewa Yogyakarta",
+  "region_id": "indonesia-yogyakarta",
+  "outlets": 461,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Jawa Timur",
+  "region_id": "indonesia-jawa-timur",
+  "outlets": 4340,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Bali",
+  "region_id": "indonesia-bali",
+  "outlets": 277,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Nusa Tenggara Barat",
+  "region_id": "indonesia-nusa-tenggara-barat",
+  "outlets": 871,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Nusa Tenggara Timur",
+  "region_id": "indonesia-nusa-tenggara-timur",
+  "outlets": 339,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Kalimantan Barat",
+  "region_id": "indonesia-kalimantan-barat",
+  "outlets": 566,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Kalimantan Tengah",
+  "region_id": "indonesia-kalimantan-tengah",
+  "outlets": 136,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Kalimantan Selatan",
+  "region_id": "indonesia-kalimantan-selatan",
+  "outlets": 312,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Kalimantan Timur",
+  "region_id": "indonesia-kalimantan-timur",
+  "outlets": 326,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Kalimantan Utara",
+  "region_id": "indonesia-kalimantan-utara",
+  "outlets": 67,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sulawesi Utara",
+  "region_id": "indonesia-sulawesi-utara",
+  "outlets": 203,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Gorontalo",
+  "region_id": "indonesia-gorontalo",
+  "outlets": 117,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sulawesi Tengah",
+  "region_id": "indonesia-sulawesi-tengah",
+  "outlets": 239,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sulawesi Barat",
+  "region_id": "indonesia-sulawesi-barat",
+  "outlets": 225,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sulawesi Selatan",
+  "region_id": "indonesia-sulawesi-selatan",
+  "outlets": 892,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Sulawesi Tenggara",
+  "region_id": "indonesia-sulawesi-tenggara",
+  "outlets": 328,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Maluku",
+  "region_id": "indonesia-maluku",
+  "outlets": 124,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Maluku Utara",
+  "region_id": "indonesia-maluku-utara",
+  "outlets": 125,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Papua",
+  "region_id": "indonesia-papua",
+  "outlets": 92,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Papua Barat",
+  "region_id": "indonesia-papua-barat",
+  "outlets": 65,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Papua Selatan",
+  "region_id": "indonesia-papua-selatan",
+  "outlets": 20,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Papua Tengah",
+  "region_id": "indonesia-papua-tengah",
+  "outlets": 36,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Papua Pegunungan",
+  "region_id": "indonesia-papua-pegunungan",
+  "outlets": 14,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ },
+ {
+  "province": "Papua Barat Daya",
+  "region_id": "indonesia-papua-barat-daya",
+  "outlets": 48,
+  "as_of": "2026-06-08",
+  "source_url": "https://www.idntimes.com/news/indonesia/data-sebaran-sppg-di-indonesia-per-juni-2026-jawa-barat-terbanyak-00-fcqw5-7lsnkw"
+ }
+]
